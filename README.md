@@ -1,6 +1,7 @@
 # Guppy-Getaway
 You've stolen King Crab's crumbs and must avoid obstacles to live! Run away and savour your findings!
 
+## Change the relative paths for each asset in the project.py file to run for yourself
 
 ## Features
 - **Simple controls**: Use the `A` and `D` keys to move the guppy left and right.
